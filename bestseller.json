@@ -5,6 +5,7 @@
         "name": "Xâu bánh tráng dầu muối bột tuổi thơ ( 10b )",
         "categoryId": 1,
         "price": 15000,
+        "qty": 1,
         "imageUrl": "https://images.unsplash.com/photo-1601390696201-26d122e73f94?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80",
         "updatedAt": 1623470929038
       },
@@ -13,6 +14,7 @@
         "name": "Bánh tráng bơ muối ( lẻ )",
         "categoryId": 1,
         "price": 7000,
+        "qty": 1,
         "imageUrl": "https://images.unsplash.com/photo-1601390696201-26d122e73f94?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80",
         "updatedAt": 1623470941537
       },
@@ -21,6 +23,7 @@
         "name": "Bánh tráng tỏi ngọt muối nhuyễn ( lẻ )",
         "categoryId": 1,
         "price": 15000,
+        "qty": 1,
         "imageUrl": "https://images.unsplash.com/photo-1601390696201-26d122e73f94?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80",
         "updatedAt": 1623470947713
       },
@@ -29,6 +32,7 @@
         "name": "Bánh tráng ớt tươi muối nhuyễn ( lẻ ) ",
         "categoryId": 1,
         "price": 8000,
+        "qty": 1,
         "imageUrl": "https://images.unsplash.com/photo-1601390696201-26d122e73f94?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80",
         "updatedAt": 1623470955600
       },
@@ -37,6 +41,7 @@
         "name": "Bánh tráng chấm sốt muối tắc  ",
         "categoryId": 1,
         "price": 7000,
+        "qty": 1,
         "imageUrl": "https://images.unsplash.com/photo-1601390696201-26d122e73f94?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80",
         "updatedAt": 1623470959660
       },
@@ -45,6 +50,7 @@
         "name": "Xâu 10b bsnh tráng sate dẻo phơi sương",
         "categoryId": 1,
         "price": 15000,
+        "qty": 1,
         "imageUrl": "https://images.unsplash.com/photo-1601390696201-26d122e73f94?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80",
         "updatedAt": 1623470963909
       },
@@ -53,6 +59,7 @@
         "name": "Xâu 12b bánh tráng bơ muối ",
         "categoryId": 1,
         "price": 75000,
+        "qty": 1,
         "imageUrl": "https://images.unsplash.com/photo-1601390696201-26d122e73f94?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80",
         "updatedAt": 1623471090291
       },
@@ -61,6 +68,7 @@
         "name": "Bánh tráng bơ cuốn lớn nhiều topping",
         "categoryId": 1,
         "price": 17000,
+        "qty": 1,
         "imageUrl": "https://images.unsplash.com/photo-1601390696201-26d122e73f94?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80",
         "updatedAt": 1623471094623
       },
@@ -69,6 +77,7 @@
         "name": "Xâu bánh tráng sate tỏi ngọt muối nhuyễn",
         "categoryId": 1,
         "price": 75000,
+        "qty": 1,
         "imageUrl": "https://images.unsplash.com/photo-1601390696201-26d122e73f94?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80",
         "updatedAt": 1623471098160
       },
@@ -77,6 +86,7 @@
         "name": "Xâu 12b bánh tráng ớt tươi muối nhuyễn",
         "categoryId": 1,
         "price": 80000,
+        "qty": 1,
         "imageUrl": "https://images.unsplash.com/photo-1601390696201-26d122e73f94?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80",
         "updatedAt": 1623471101625
       },
@@ -85,6 +95,7 @@
         "name": "Bánh tráng sate hành phi phơi sương muối nhuyễn",
         "categoryId": 1,
         "price": 7000,
+        "qty": 1,
         "imageUrl": "https://images.unsplash.com/photo-1601390696201-26d122e73f94?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80",
         "updatedAt": 1623471105607
       },
@@ -93,6 +104,7 @@
         "name": "Bánh tráng dẻo muối nhuyễn cay mini ( 10b )",
         "categoryId": 1,
         "price": 15000,
+        "qty": 1,
         "imageUrl": "https://images.unsplash.com/photo-1601390696201-26d122e73f94?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80",
         "updatedAt": 1623471108598
       },
@@ -100,49 +112,57 @@
         "id": 13,
         "name": "Bánh tráng sate tắc tỏi ớt  ",
         "categoryId": 1,
-        "price": 7000
+        "price": 7000,
+        "qty": 1
       },
       {
         "id": 14,
         "name": "Bánh tráng muối hành phi bánh đỏ phơi sương ",
         "categoryId": 1,
-        "price": 6000
+        "price": 6000,
+        "qty": 1
       },
       {
         "id": 15,
         "name": "Bánh tráng muối nhuyễn zip ",
         "categoryId": 1,
-        "price": 10000
+        "price": 10000,
+        "qty": 1
       },
       {
         "id": 16,
         "name": "Bánh tráng tỏi phi",
         "categoryId": 1,
-        "price": 10000
+        "price": 10000,
+        "qty": 1
       },
       {
         "id": 17,
         "name": "Bánh tráng sate thập cẩm ",
         "categoryId": 1,
-        "price": 10000
+        "price": 10000,
+        "qty": 1
       },
       {
         "id": 18,
         "name": "Bánh tráng bơ trộn  ",
         "categoryId": 1,
-        "price": 17000
+        "price": 17000,
+        "qty": 1
       },
       {
         "id": 19,
         "name": "Bánh tráng xâu sate tắc phơi sương ( 10b )",
         "categoryId": 1,
-        "price": 20000
+        "price": 20000,
+        "qty": 1
       },
       {
         "id": 20,
         "name": "Bánh tráng chấm tỏi sốt muối ",
         "categoryId": 1,
-        "price": 10000
+        "price": 10000,
+        "qty": 1
       }
     ]
 }
