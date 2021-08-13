@@ -5,6 +5,7 @@
         "name": "Cơm cháy siêu chà bông",
         "category": "snack",
         "price": 35000,
+        "qty" : 1,
         "imageUrl": "https://images.unsplash.com/photo-1601390696201-26d122e73f94?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80",
         "updatedAt": 1623470929038
       },
@@ -13,6 +14,7 @@
         "name": "Nho vàng IRAN sấy",
         "category": "snack",
         "price": 50000,
+        "qty" : 1,
         "imageUrl": "https://images.unsplash.com/photo-1601390696201-26d122e73f94?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80",
         "updatedAt": 1623470941537
       },
@@ -21,6 +23,7 @@
         "name": "Cơm cháy lắc ( Khô gà )",
         "category": "snack",
         "price": 35000,
+        "qty" : 1,
         "imageUrl": "https://images.unsplash.com/photo-1601390696201-26d122e73f94?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80",
         "updatedAt": 1623470947713
       },
@@ -29,6 +32,7 @@
         "name": "Cơm cháy lắc ( Chà bông ) ",
         "category": "snack",
         "price": 35000,
+        "qty" : 1,
         "imageUrl": "https://images.unsplash.com/photo-1601390696201-26d122e73f94?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80",
         "updatedAt": 1623470955600
       },
@@ -37,6 +41,7 @@
         "name": "Cơm cháy mắm hành ( 200 gr ) ",
         "category": "snack",
         "price": 12000,
+        "qty" : 1,
         "imageUrl": "https://images.unsplash.com/photo-1601390696201-26d122e73f94?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80",
         "updatedAt": 1623470959660
       },
@@ -45,6 +50,7 @@
         "name": "Cơm cháy mắm hành ( 1kg )",
         "category": "snack",
         "price": 50000,
+        "qty" : 1,
         "imageUrl": "https://images.unsplash.com/photo-1601390696201-26d122e73f94?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80",
         "updatedAt": 1623470963909
       },
@@ -53,6 +59,7 @@
         "name": "Da cá trứng muối ( 200 gr ) ",
         "category": "snack",
         "price": 45000,
+        "qty" : 1,
         "imageUrl": "https://images.unsplash.com/photo-1601390696201-26d122e73f94?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80",
         "updatedAt": 1623471090291
       },
@@ -61,6 +68,7 @@
         "name": "Da cá trứng muối ( 250 gr )",
         "category": "snack",
         "price": 50000,
+        "qty" : 1,
         "imageUrl": "https://images.unsplash.com/photo-1601390696201-26d122e73f94?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80",
         "updatedAt": 1623471094623
       },
@@ -69,6 +77,7 @@
         "name": "Mực sợi hấp nước dừa ( 250 gr )",
         "category": "snack",
         "price": 60000,
+        "qty" : 1,
         "imageUrl": "https://images.unsplash.com/photo-1601390696201-26d122e73f94?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80",
         "updatedAt": 1623471098160
       },
@@ -77,6 +86,7 @@
         "name": "Mực sợi hấp nước dừa ( 300 gr )",
         "category": "snack",
         "price": 70000,
+        "qty" : 1,
         "imageUrl": "https://images.unsplash.com/photo-1601390696201-26d122e73f94?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80",
         "updatedAt": 1623471101625
       },
@@ -85,6 +95,7 @@
         "name": "Mực sợi hấp nước dừa ( 200 gr )",
         "category": "snack",
         "price": 50000,
+        "qty" : 1,
         "imageUrl": "https://images.unsplash.com/photo-1601390696201-26d122e73f94?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80",
         "updatedAt": 1623471105607
       },
@@ -93,6 +104,7 @@
         "name": "Bim bim que ( 350 gr )",
         "category": "snack",
         "price": 30000,
+        "qty" : 1,
         "imageUrl": "https://images.unsplash.com/photo-1601390696201-26d122e73f94?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80",
         "updatedAt": 1623471108598
       },
@@ -100,73 +112,85 @@
         "id": 13,
         "name": "Mít thái sấy giòn ",
         "category": "snack",
-        "price": 45000
+        "price": 45000,
+        "qty" : 1
       },
       {
         "id": 14,
         "name": "Nui bò sấy lá chanh ( 340 gr ) ",
         "category": "snack",
-        "price": 18000
+        "price": 18000,
+        "qty" : 1
       },
       {
         "id": 15,
         "name": "Da heo tỏi ớt ( 160 gr ) ",
         "category": "snack",
-        "price": 40000
+        "price": 40000,
+        "qty" : 1
       },
       {
         "id": 16,
         "name": "Bột cacao DakLak cao cấp ( 500 gr) ",
         "category": "snack",
-        "price": 45000
+        "price": 45000,
+        "qty" : 1
       },
       {
         "id": 17,
         "name": "Tai heo mắm ớt ( 250gr ) ",
         "category": "snack",
-        "price": 30000
+        "price": 30000,
+        "qty" : 1
       },
       {
         "id": 18,
         "name": "Kéo hình xương chó ( 400 gr ) ",
         "category": "snack",
-        "price": 45000
+        "price": 45000,
+        "qty" : 1
       },
       {
         "id": 19,
         "name": "Bánh tai heo mix 2 vị ( 330 gr ) ",
         "category": "snack",
-        "price": 35000
+        "price": 35000,
+        "qty" : 1
       },
       {
         "id": 20,
         "name": "Khoai lang sấy mật ong mix 2 vị (200 gr ) ",
         "category": "snack",
-        "price": 30000
+        "price": 30000,
+        "qty" : 1
       },
       {
         "id": 21,
         "name": "Bánh đuông sữa ( 300 gr ) ",
         "category": "snack",
-        "price": 15000
+        "price": 15000,
+        "qty" : 1
       },
       {
         "id": 22,
         "name": "Rong biển cháy tỏi ( 150 gr )",
         "category": "snack",
-        "price": 35000
+        "price": 35000,
+        "qty" : 1
       },
       {
         "id": 23,
         "name": "Rong biển cháy tỏi ( 200 gr ) ",
         "category": "snack",
-        "price": 45000
+        "price": 45000,
+        "qty" : 1
       },
       {
         "id": 24,
         "name": "Nui bò sấy lá chanh ( 340 gr ) ",
         "category": "snack",
-        "price": 35000
+        "price": 35000,
+        "qty" : 1
       }
     ]
 }
