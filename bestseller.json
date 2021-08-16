@@ -6,8 +6,9 @@
         "category": "best seller",
         "price": 15000,
         "qty": 1,
-        "imageUrl": "https://i.pinimg.com/originals/d4/de/d4/d4ded473a6ea9816189ed7230692e93f.jpg",
+        "imageUrl" : "../../../../assets/image/cham.jfif",
         "updatedAt": 1623470929038
+        
       },
       {
         "id": 2,
