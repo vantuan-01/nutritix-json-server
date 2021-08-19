@@ -15,6 +15,7 @@ GET {{baseUrl}}/products
 POST {{baseUrl}}/products
 Content-Type: application/json
 
+
 {
     "id": 13,
     "name": "Bánh tráng xâu tôm",
