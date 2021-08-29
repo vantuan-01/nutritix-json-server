@@ -1,0 +1,384 @@
+{
+    "products":[
+      {
+        "id": 1,
+        "name": "Xâu bánh tráng dầu muối bột tuổi thơ  ( 10b )",
+        "category": "best seller",
+        "price": 15000,
+        "qty": 1,
+        "imageUrl" : "https://i.pinimg.com/originals/d4/de/d4/d4ded473a6ea9816189ed7230692e93f.jpg",
+        "updatedAt": 1623470929038
+        
+      },
+      {
+        "id": 2,
+        "name": "Bánh tráng bơ muối ( lẻ )",
+        "category": "best seller",
+        "price": 7000,
+        "qty": 1,
+        "imageUrl": "https://i.pinimg.com/originals/9e/82/d3/9e82d39983844b2943f2633b5fc8961f.jpg",
+        "updatedAt": 1623470941537
+      },
+      {
+        "id": 3,
+        "name": "Bánh tráng tỏi ngọt muối nhuyễn ( lẻ )",
+        "category": "best seller",
+        "price": 15000,
+        "qty": 1,
+        "imageUrl": "https://i.pinimg.com/originals/ea/07/ec/ea07ece98bb4387024177f83649b864c.jpg",
+        "updatedAt": 1623470947713
+      },
+      {
+        "id": 4,
+        "name": "Bánh tráng ớt tươi muối nhuyễn ( lẻ ) ",
+        "category":"best seller",
+        "price": 8000,
+        "qty": 1,
+        "imageUrl": "https://i.pinimg.com/originals/7a/42/fc/7a42fcb9365d302c49f43f03a870e22c.jpg",
+        "updatedAt": 1623470955600
+      },
+      {
+        "id": 5,
+        "name": "Bánh tráng chấm sốt muối tắc  ",
+        "category": "best seller",
+        "price": 7000,
+        "qty": 1,
+        "imageUrl": "https://i.pinimg.com/originals/7b/fa/e6/7bfae6075b9ac9c911683306d7d6caf6.jpg",
+        "updatedAt": 1623470959660
+      },
+      {
+        "id": 6,
+        "name": "Xâu 10b bánh tráng sate dẻo phơi sương",
+        "category": "best seller",
+        "price": 15000,
+        "qty": 1,
+        "imageUrl": "https://i.pinimg.com/originals/f5/75/45/f575459386e20e4931f946d8306d6fd4.jpg",
+        "updatedAt": 1623470963909
+      },
+      {
+        "id": 7,
+        "name": "Xâu 12b bánh tráng bơ muối ",
+        "category": "best seller",
+        "price": 75000,
+        "qty": 1,
+        "imageUrl": "https://i.pinimg.com/originals/d7/d2/40/d7d24045dbf3234afff8a56d0b520f49.jpg",
+        "updatedAt": 1623471090291
+      },
+      {
+        "id": 8,
+        "name": "Bánh tráng bơ cuốn lớn nhiều topping",
+        "category": "best seller",
+        "price": 17000,
+        "qty": 1,
+        "imageUrl": "https://i.pinimg.com/originals/21/28/df/2128dfdc768e861b3d159c0f9a461ce7.jpg",
+        "updatedAt": 1623471094623
+      },
+      {
+        "id": 9,
+        "name": "Xâu bánh tráng sate tỏi ngọt muối nhuyễn",
+        "category": "best seller",
+        "price": 75000,
+        "qty": 1,
+        "imageUrl": "https://i.pinimg.com/originals/c7/5a/9c/c75a9c33a8fdf9df9b3e1e5ee8253d96.jpg",
+        "updatedAt": 1623471098160
+      },
+      {
+        "id": 10,
+        "name": "Xâu 12b bánh tráng ớt tươi muối nhuyễn",
+        "category": "best seller",
+        "price": 80000,
+        "qty": 1,
+        "imageUrl": "https://i.pinimg.com/originals/c7/5a/9c/c75a9c33a8fdf9df9b3e1e5ee8253d96.jpg",
+        "updatedAt": 1623471101625
+      },
+      {
+        "id": 11,
+        "name": "Bánh tráng sate hành phi phơi sương muối nhuyễn",
+        "category": "best seller",
+        "price": 7000,
+        "qty": 1,
+        "imageUrl": "https://i.pinimg.com/originals/61/91/68/619168d7a1234c1b0a235bdec4452746.jpg",
+        "updatedAt": 1623471105607
+      },
+      {
+        "id": 12,
+        "name": "Bánh tráng dẻo muối nhuyễn cay mini ( 10b )",
+        "category": "best seller",
+        "price": 15000,
+        "qty": 1,
+        "imageUrl": "https://images.unsplash.com/photo-1601390696201-26d122e73f94?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80",
+        "updatedAt": 1623471108598
+      },
+      {
+        "id": 13,
+        "name": "Bánh tráng sate tắc tỏi ớt  ",
+        "category": "best seller",
+        "price": 7000,
+        "imageUrl" : "https://i.pinimg.com/originals/95/d5/a1/95d5a1023225fad9ed32bba6e2322c60.jpg",
+        "qty": 1
+      },
+      {
+        "id": 14,
+        "name": "Bánh tráng muối hành phi bánh đỏ phơi sương ",
+        "category": "best seller",
+        "price": 6000,
+        "imageUrl": "https://images.unsplash.com/photo-1601390696201-26d122e73f94?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80",
+        "qty": 1
+      },
+      {
+        "id": 15,
+        "name": "Bánh tráng muối nhuyễn zip ",
+        "category": "best seller",
+        "price": 10000,
+        "imageUrl" : "https://i.pinimg.com/originals/d4/31/bf/d431bf6a49abff563e83ff91ec0447b8.jpg",
+        "qty": 1
+      },
+      {
+        "id": 16,
+        "name": "Bánh tráng tỏi phi",
+        "category": "best seller",
+        "price": 10000,
+        "imageUrl" : "https://i.pinimg.com/originals/5d/81/0c/5d810cd8b9cec8f090187b88be28892e.jpg",
+        "qty": 1
+      },
+      {
+        "id": 17,
+        "name": "Bánh tráng sate thập cẩm ",
+        "category": "best seller",
+        "price": 10000,
+        "imageUrl" : "https://i.pinimg.com/originals/12/08/bb/1208bb4547bd33f6a719037c3c6878ec.jpg",
+        "qty": 1
+      },
+      {
+        "id": 18,
+        "name": "Bánh tráng bơ trộn  ",
+        "category": "best seller",
+        "price": 17000,
+        "imageUrl" : "https://i.pinimg.com/originals/90/cc/27/90cc27686fea358f39ea65f5598cd12d.jpg",
+        "qty": 1
+      },
+      {
+        "id": 19,
+        "name": "Bánh tráng xâu sate tắc phơi sương ( 10b )",
+        "category": "best seller",
+        "price": 20000,
+        "imageUrl" : "https://i.pinimg.com/originals/e5/56/85/e5568560f012cf0ee373d2f0e5885799.jpg",
+        "qty": 1
+      },
+      {
+        "id": 20,
+        "name": "Bánh tráng chấm tỏi sốt muối ",
+        "category": "best seller",
+        "price": 10000,
+        "imageUrl" : "https://i.pinimg.com/originals/44/21/2b/44212b15f255bbe261435ad9bd4c1da8.jpg",
+        "qty": 1
+      },
+      {
+        "id": 21,
+        "name": "Cơm cháy siêu chà bông",
+        "category": "snack",
+        "price": 35000,
+        "qty" : 1,
+        "imageUrl": "https://i.pinimg.com/originals/a6/d1/2c/a6d12c0a599f8ee6ba3243c327243890.jpg",
+        "updatedAt": 1623470929038
+      },
+      {
+        "id": 22,
+        "name": "Nho vàng IRAN sấy",
+        "category": "snack",
+        "price": 50000,
+        "qty" : 1,
+        "imageUrl": "https://i.pinimg.com/originals/d0/ff/f5/d0fff5ba356bff19352857219726a3ac.jpg",
+        "updatedAt": 1623470941537
+      },
+      {
+        "id": 23,
+        "name": "Cơm cháy lắc ( Khô gà )",
+        "category": "snack",
+        "price": 35000,
+        "qty" : 1,
+        "imageUrl": "https://i.pinimg.com/originals/f2/49/ea/f249ea7a24d818b25619f9f9e7e3c367.jpg",
+        "updatedAt": 1623470947713
+      },
+      {
+        "id": 24,
+        "name": "Cơm cháy lắc ( Chà bông ) ",
+        "category": "snack",
+        "price": 35000,
+        "qty" : 1,
+        "imageUrl": "https://i.pinimg.com/originals/a6/d1/2c/a6d12c0a599f8ee6ba3243c327243890.jpg",
+        "updatedAt": 1623470955600
+      },
+      {
+        "id": 25,
+        "name": "Cơm cháy mắm hành ( 200 gr ) ",
+        "category": "snack",
+        "price": 12000,
+        "qty" : 1,
+        "imageUrl": "https://images.unsplash.com/photo-1601390696201-26d122e73f94?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80",
+        "updatedAt": 1623470959660
+      },
+      {
+        "id": 26,
+        "name": "Cơm cháy mắm hành ( 1kg )",
+        "category": "snack",
+        "price": 50000,
+        "qty" : 1,
+        "imageUrl": "https://images.unsplash.com/photo-1601390696201-26d122e73f94?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80",
+        "updatedAt": 1623470963909
+      },
+      {
+        "id": 27,
+        "name": "Da cá trứng muối ( 200 gr ) ",
+        "category": "snack",
+        "price": 45000,
+        "qty" : 1,
+        "imageUrl": "https://i.pinimg.com/originals/8c/90/1d/8c901d0fb3549b5f5c32fa858f1c0587.jpg",
+        "updatedAt": 1623471090291
+      },
+      {
+        "id": 28,
+        "name": "Da cá trứng muối ( 250 gr )",
+        "category": "snack",
+        "price": 50000,
+        "qty" : 1,
+        "imageUrl": "https://i.pinimg.com/originals/ae/a9/d1/aea9d1a4a2e808975f96353c801a00fd.jpg",
+        "updatedAt": 1623471094623
+      },
+      {
+        "id": 29,
+        "name": "Mực sợi hấp nước dừa ( 250 gr )",
+        "category": "snack",
+        "price": 60000,
+        "qty" : 1,
+        "imageUrl": "https://i.pinimg.com/originals/e6/af/76/e6af76f3e634f7b25447abec739a40a4.jpg",
+        "updatedAt": 1623471098160
+      },
+      {
+        "id": 30,
+        "name": "Mực sợi hấp nước dừa ( 300 gr )",
+        "category": "snack",
+        "price": 70000,
+        "qty" : 1,
+        "imageUrl": "https://i.pinimg.com/originals/f3/a5/29/f3a5296328bfac016780d64a64398741.jpg",
+        "updatedAt": 1623471101625
+      },
+      {
+        "id": 31,
+        "name": "Mực sợi hấp nước dừa ( 200 gr )",
+        "category": "snack",
+        "price": 50000,
+        "qty" : 1,
+        "imageUrl": "https://i.pinimg.com/originals/c3/73/17/c37317e3ebf4ebde79fc752d4312d15f.jpg",
+        "updatedAt": 1623471105607
+      },
+      {
+        "id": 32,
+        "name": "Bim bim que ( 350 gr )",
+        "category": "snack",
+        "price": 30000,
+        "qty" : 1,
+        "imageUrl": "https://i.pinimg.com/originals/12/ca/7a/12ca7a5b32e888ffb42733cbdcefffa3.jpg",
+        "updatedAt": 1623471108598
+      },
+      {
+        "id": 33,
+        "name": "Mít thái sấy giòn ",
+        "category": "snack",
+        "price": 45000,
+        "qty" : 1,
+        "imageUrl": "https://i.pinimg.com/originals/74/fb/d0/74fbd0e34fd8f760a172fc4375809483.jpg"
+
+      },
+      {
+        "id": 34,
+        "name": "Nui bò sấy lá chanh ( 340 gr ) ",
+        "category": "snack",
+        "price": 18000,
+        "qty" : 1,
+        "imageUrl": "https://i.pinimg.com/originals/48/ab/81/48ab8137903d1aed2e91e6a4ccc8a8c0.jpg"
+
+      },
+      {
+        "id": 35,
+        "name": "Da heo tỏi ớt ( 160 gr ) ",
+        "category": "snack",
+        "price": 40000,
+        "qty" : 1,
+        "imageUrl": "https://i.pinimg.com/originals/8d/5e/c0/8d5ec014e343cff6d54948b2fbdbbca2.jpg"
+
+      },
+      {
+        "id": 36,
+        "name": "Bột cacao DakLak cao cấp ( 500 gr) ",
+        "category": "snack",
+        "price": 45000,
+        "qty" : 1,
+        "imageUrl": "https://i.pinimg.com/originals/12/ca/7a/12ca7a5b32e888ffb42733cbdcefffa3.jpg"
+
+      },
+      {
+        "id": 37,
+        "name": "Tai heo mắm ớt ( 250gr ) ",
+        "category": "snack",
+        "price": 30000,
+        "qty" : 1,
+        "imageUrl": "https://i.pinimg.com/originals/09/8c/9f/098c9f565229f0d4aba3e8c2c5563e94.jpg"
+
+      },
+      {
+        "id": 38,
+        "name": "Kẹo hình xương chó ( 400 gr ) ",
+        "category": "snack",
+        "price": 45000,
+        "qty" : 1,
+        "imageUrl": "https://i.pinimg.com/originals/12/ca/7a/12ca7a5b32e888ffb42733cbdcefffa3.jpg"
+
+      },
+      {
+        "id": 39,
+        "name": "Bánh tai heo mix 2 vị ( 330 gr ) ",
+        "category": "snack",
+        "price": 35000,
+        "qty" : 1,
+        "imageUrl": "https://i.pinimg.com/originals/10/c4/6f/10c46fbe50777b3df437f649dab364d4.jpg"
+
+      },
+      {
+        "id": 40,
+        "name": "Khoai lang sấy mật ong mix 2 vị (200 gr ) ",
+        "category": "snack",
+        "price": 30000,
+        "qty" : 1,
+        "imageUrl": "https://i.pinimg.com/originals/f3/b3/8e/f3b38e697792ae421d7f939c17b18d1c.jpg"
+
+      },
+      {
+        "id": 41,
+        "name": "Bánh đuông sữa ( 300 gr ) ",
+        "category": "snack",
+        "price": 15000,
+        "qty" : 1,
+        "imageUrl": "https://i.pinimg.com/originals/12/ca/7a/12ca7a5b32e888ffb42733cbdcefffa3.jpg"
+
+      },
+      {
+        "id": 42,
+        "name": "Rong biển cháy tỏi ( 150 gr )",
+        "category": "snack",
+        "price": 35000,
+        "qty" : 1,
+        "imageUrl": "https://i.pinimg.com/originals/cf/95/66/cf956693bb049db7fc867e80ea1f19b3.jpg"
+
+      },
+      {
+        "id": 43,
+        "name": "Rong biển cháy tỏi ( 200 gr ) ",
+        "category": "snack",
+        "price": 45000,
+        "qty" : 1,
+        "imageUrl": "https://i.pinimg.com/originals/e5/ef/fc/e5effc80134e559fc9915d0c35e63675.jpg"
+
+      }
+    ]
+}
