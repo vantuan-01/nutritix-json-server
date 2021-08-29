@@ -113,83 +113,96 @@
         "name": "Bánh tráng sợi dẻo sate tỏi  ",
         "category": "tây ninh",
         "price": 7000,
-        "qty" : 1      
+        "qty" : 1,
+        "imageUrl": "https://images.unsplash.com/photo-1601390696201-26d122e73f94?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80"      
       },
       {
         "id": 14,
         "name": "Bánh tráng trộn sẵn miếng vuông ",
         "category": "tây ninh",
         "price": 8000,
-        "qty" : 1      
+        "qty" : 1,
+        "imageUrl": "https://images.unsplash.com/photo-1601390696201-26d122e73f94?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80"      
       },
       {
         "id": 15,
         "name": "Bánh tráng xoài Nha Trang ",
         "category": "tây ninh",
         "price": 25000,
-        "qty" : 1      
+        "qty" : 1,
+        "imageUrl": "https://images.unsplash.com/photo-1601390696201-26d122e73f94?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80"      
       },
       {
         "id": 16,
         "name": "Bánh tráng sate tỏi phơi sương ( miếng )",
         "category": "tây ninh",
         "price": 8000,
-        "qty" : 1      
+        "qty" : 1,
+        "imageUrl": "https://images.unsplash.com/photo-1601390696201-26d122e73f94?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80"      
       },
       {
         "id": 17,
         "name": "Bánh tráng trộn chà bông ",
         "category": "tây ninh",
         "price": 9000,
-        "qty" : 1      
+        "qty" : 1,
+        "imageUrl": "https://images.unsplash.com/photo-1601390696201-26d122e73f94?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80"      
       },
       {
         "id": 18,
         "name": "Bánh tráng trộn muối tỏi miếng vuông ",
         "category": "tây ninh",
         "price": 8000,
-        "qty" : 1      
+        "qty" : 1,
+        "imageUrl": "https://images.unsplash.com/photo-1601390696201-26d122e73f94?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80"      
       },
       {
         "id": 19,
         "name": "Bánh tráng bơ me ",
         "category": "tây ninh",
         "price": 15000,
-        "qty" : 1      
+        "qty" : 1,
+        "imageUrl": "https://images.unsplash.com/photo-1601390696201-26d122e73f94?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80"      
       },
       {
         "id": 20,
         "name": "Bánh tráng muối nhiễn phơi sương Tây Ninh ",
         "category": "tây ninh",
         "price": 8000,
-        "qty" : 1      
+        "qty" : 1,
+        "imageUrl": "https://images.unsplash.com/photo-1601390696201-26d122e73f94?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80"      
       },
       {
         "id": 21,
         "name": "Bánh tráng dầu tỏi muối ",
         "category": "tây ninh",
         "price": 8000,
-        "qty" : 1      
+        "qty" : 1,
+        "imageUrl": "https://images.unsplash.com/photo-1601390696201-26d122e73f94?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80"      
       },
       {
         "id": 22,
         "name": "Bánh tráng trộn sợi bò",
         "category": "tây ninh",
         "price": 8000,
-        "qty" : 1      
+        "qty" : 1,
+        "imageUrl": "https://images.unsplash.com/photo-1601390696201-26d122e73f94?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80"      
       },
       {
         "id": 23,
         "name": "Bánh tráng dẻo chấm muối siêu cay",
         "category": "tây ninh",
         "price": 10000,
-        "qty" : 1      
+        "qty" : 1,
+        "imageUrl": "https://images.unsplash.com/photo-1601390696201-26d122e73f94?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80"      
       },
       {
         "id": 24,
         "name": "Bánh tráng dẻo chấm sate muối ",
         "category": "tây ninh",
         "price": 10000,
-        "qty" : 1      }
+        "qty" : 1,
+        "imageUrl": "https://images.unsplash.com/photo-1601390696201-26d122e73f94?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80"      
+      }
     ]
 }
