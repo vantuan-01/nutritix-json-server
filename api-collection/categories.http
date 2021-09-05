@@ -3,7 +3,8 @@
 # Categories
 
 # @name getAllCategories
-GET {{baseUrl}}/products?_limit=2&_page=1
+# GET {{baseUrl}}/products?_limit=2&_page=1
+GET {{baseUrl}}/products?name_like=bánh&_limit=2&_page=1
 
 ###
 # @name getAllCategories
