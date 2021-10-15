@@ -1,10 +1,11 @@
-@baseUrl = http://localhost:4000/fastfoods
+@baseUrl = http://localhost:4000/bestseller
 
 # Categories
 
 # @name getAllCategories
 # GET {{baseUrl}}/products?_limit=2&_page=1
-GET {{baseUrl}}/products?name_like=bánh&_limit=2&_page=1
+# GET {{baseUrl}}/products?name_like=bánh&_limit=2&_page=1
+GET {{baseUrl}}/products/1
 
 ###
 # @name getAllCategories
