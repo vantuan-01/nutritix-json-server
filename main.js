@@ -7,6 +7,7 @@ const routerCereals = jsonServer.router("cereals.json");
 const routerCombo = jsonServer.router("combo.json");
 const routerBest = jsonServer.router("bestseller.json");
 const routerAllProduct = jsonServer.router("all.json");
+const routerUsers = jsonServer.router("users.json");
 
 const middlewares = jsonServer.defaults();
 const queryString = require("query-string");
@@ -193,6 +194,29 @@ routerBest.render = (req, res) => {
   res.jsonp(res.locals.data);
 };
 
+routerUsers.render = (req, res) => {
+  // check GET with pagination
+  // if yes, custom output
+
+  const headers = res.getHeaders();
+  const totalCountHeader = headers["x-total-count"];
+  console.log("header :", totalCountHeader);
+  if (req.method === "GET" && totalCountHeader) {
+    const queryParam = queryString.parse(req._parsedUrl.query);
+    console.log("query : ", queryParam);
+    const result = {
+      data: res.locals.data,
+      pagination: {
+        _page: Number.parseInt(queryParam._page) || 1,
+        _limit: Number.parseInt(queryParam._limit) || 10,
+        _totalRows: Number.parseInt(totalCountHeader),
+      },
+    };
+    return res.jsonp(result);
+  }
+  res.jsonp(res.locals.data);
+};
+
 // Start server
 server.use("/fastfoods", router);
 server.use("/snacks", routerSnacks);
@@ -201,6 +225,7 @@ server.use("/cereals", routerCereals);
 server.use("/combo", routerCombo);
 server.use("/bestseller", routerBest);
 server.use("/allproduct", routerAllProduct);
+server.use("/users", routerUsers);
 
 const PORT = process.env.PORT || 4000;
 server.listen(PORT, () => {
