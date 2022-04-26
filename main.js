@@ -224,7 +224,7 @@ server.use("/tayninh", routerTayNinh);
 server.use("/cereals", routerCereals);
 server.use("/combo", routerCombo);
 server.use("/bestseller", routerBest);
-server.use("/allproduct", routerAllProduct);
+server.use("/api/all", routerAllProduct);
 server.use("/users", routerUsers);
 
 const PORT = process.env.PORT || 4000;
