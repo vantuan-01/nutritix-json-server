@@ -101,9 +101,9 @@ routerBills.render = (req, res) => {
 
 // Start server
 
-server.use("/api", routerAllProduct);
-server.use("/api", routerUsers);
-server.use("/api", routerBills);
+server.use("/api/product", routerAllProduct);
+server.use("/api/user", routerUsers);
+server.use("/api/bill", routerBills);
 
 const PORT = process.env.PORT || 4000;
 server.listen(PORT, () => {
