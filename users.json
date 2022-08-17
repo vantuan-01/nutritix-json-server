@@ -1,5 +1,5 @@
 {
-  "user": [
+  "users": [
     {
       "id": 1,
       "firstName": "Sachin",
@@ -17,6 +17,17 @@
       "firstName": "Steve",
       "lastName": "Smith",
       "age": 32
+    },
+    {
+      "email": "leducnghi28122000hiie@gmail.com",
+      "password": "0972647481nghi",
+      "username": "Duc Nghi",
+      "age": 32,
+      "role": "admin",
+      "phone": "0338006534",
+      "createdAt": 1650958123971,
+      "updatedAt": 1650958123971,
+      "id": 4
     }
   ]
 }

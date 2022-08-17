@@ -1,28 +1,31 @@
-@baseUrl = http://localhost:4000/allproduct
+@baseUrl = http://localhost:4000/api/all
 
 # Categories
 
 # @name getAllCategories
 # GET {{baseUrl}}/products?_limit=2&_page=1
 # GET {{baseUrl}}/products?name_like=bánh&_limit=2&_page=1
-GET {{baseUrl}}/products/1
+GET {{baseUrl}}/users
 
 ###
 # @name getAllCategories
-GET {{baseUrl}}/products
+GET {{baseUrl}}/products?category=combo,
 
 ###
 
 # @name addNewCategory
-POST {{baseUrl}}/products
+POST {{baseUrl}}/users
 Content-Type: application/json
 
 
 {
-    "id": 13,
-    "name": "Bánh tráng xâu tôm",
-    "categoryId": 1,
-    "price": 17000,
+    
+    "email" : "leducnghi28122000hiie@gmail.com",
+    "password" : "0972647481nghi",
+    "username" : "Duc Nghi",
+    "age" : 32,
+    "role" : "admin",
+    "phone" : "0338006534"
 }
 
 ###
@@ -38,4 +41,4 @@ Content-Type: application/json
 ###
 
 # @name removeCategory
-DELETE {{baseUrl}}/categories/2
+DELETE {{baseUrl}}/users/5

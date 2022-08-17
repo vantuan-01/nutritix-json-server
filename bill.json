@@ -1,0 +1,27 @@
+{
+  "bills": [
+    {
+      "id": 1,
+      "info": {
+        "shoppingInfo": {
+          "items": [],
+          "promo code": {
+            "promoName": "...",
+            "promoPercent": "..."
+          },
+          "subtotalPrice": "...",
+          "total/finalPrice": "..."
+        },
+
+        "userInfo": {
+          "address": "...",
+          "deliveryName": " Self pick up || Delivery",
+          "fullName": "",
+          "note": "...",
+          "paymentMethods": " Bank || COD || Momo",
+          "phone": "..."
+        }
+      }
+    }
+  ]
+}
