@@ -1,17 +1,17 @@
-# Tutorials how to setting JSON-SERVER
+# bills api
 
-cách tạo server Json : 1) Mở terminal -> npm install -g json-server
+https://pvfood-api.herokuapp.com/api/bill/bills
 
-    2) Tạo folder JSON-SERVER -> tạo file db.json -> add API vào -> (mở terminal)json-server --watch db.json ( tạo API fake xịn để hook vào )
+# products api
 
-    3) Mở terminal 	-> npm init ( entry-point: main.js ,license : MIT ) -> git init -> touch .gitigore( lệnh chạy xong sẽ tự động tạo file .gitignore) -> npm i json-server -> npm i --save-dev nodemon
+https://pvfood-api.herokuapp.com/api/product/products
 
-    4) Vào link https://www.toptal.com/developers/gitignore/api/node  -> paste hết code vào file .gitignore
+# users api
 
-    5) Vào link https://www.npmjs.com/  -> Kéo xuống tới Module  ->  chọn Custom routes example  -> copy ô code đầu tiên
+https://pvfood-api.herokuapp.com/api/user/users
 
-    6) Tạo file main.js ( hoặc nếu khi chạy lệnh mà hiện lên thì thôi ) -> paste code vừa copy ở trên vào (main.js)
+# trash api
 
-    7) Vào file package.json -> phần script : "dev": "nodemon main.js", "start": "node main.js"
+https://pvfood-api.herokuapp.com/api/trash/trash
 
-    8) Chạy server Json : npm run dev
+# sales api
