@@ -15,3 +15,5 @@ https://pvfood-api.herokuapp.com/api/user/users
 https://pvfood-api.herokuapp.com/api/trash/trash
 
 # sales api
+
+https://pvfood-api.herokuapp.com/api/sales/sales
