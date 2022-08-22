@@ -1,0 +1,36 @@
+{
+  "trash": [
+    {
+      "id": 1,
+      "lastName": "Phung",
+      "firstName": "Hung",
+      "age": 69,
+      "email": "leducnghi28122000hiie@gmail.com",
+      "image": null,
+      "role": "member",
+      "team": "React",
+      "project": "Error"
+    },
+    {
+      "id": 2,
+      "lastName": "Phung",
+      "firstName": "Hung",
+      "age": 69,
+      "email": "leducnghi28122000hiie@gmail.com",
+      "image": null,
+      "role": "member",
+      "team": "React",
+      "project": "Error"
+    },
+    {
+      "firstName": "Phung",
+      "lastName": "Hung",
+      "email": "phunghung210@gmail.com",
+      "age": "22",
+      "role": "member",
+      "team": "React",
+      "project": "Cake website",
+      "id": 3
+    }
+  ]
+}

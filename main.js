@@ -4,6 +4,8 @@ const server = jsonServer.create();
 const routerAllProduct = jsonServer.router("all.json");
 const routerUsers = jsonServer.router("users.json");
 const routerBills = jsonServer.router("bill.json");
+const routerTrash = jsonServer.router("trash.json");
+const routerSale = jsonServer.router("sales.json");
 
 const middlewares = jsonServer.defaults();
 const queryString = require("query-string");
@@ -99,11 +101,59 @@ routerBills.render = (req, res) => {
   res.jsonp(res.locals.data);
 };
 
+routerTrash.render = (req, res) => {
+  // check GET with pagination
+  // if yes, custom output
+
+  const headers = res.getHeaders();
+  const totalCountHeader = headers["x-total-count"];
+  console.log("header :", totalCountHeader);
+  if (req.method === "GET" && totalCountHeader) {
+    const queryParam = queryString.parse(req._parsedUrl.query);
+    console.log("query : ", queryParam);
+    const result = {
+      data: res.locals.data,
+      pagination: {
+        _page: Number.parseInt(queryParam._page) || 1,
+        _limit: Number.parseInt(queryParam._limit) || 10,
+        _totalRows: Number.parseInt(totalCountHeader),
+      },
+    };
+    return res.jsonp(result);
+  }
+  res.jsonp(res.locals.data);
+};
+
+routerSale.render = (req, res) => {
+  // check GET with pagination
+  // if yes, custom output
+
+  const headers = res.getHeaders();
+  const totalCountHeader = headers["x-total-count"];
+  console.log("header :", totalCountHeader);
+  if (req.method === "GET" && totalCountHeader) {
+    const queryParam = queryString.parse(req._parsedUrl.query);
+    console.log("query : ", queryParam);
+    const result = {
+      data: res.locals.data,
+      pagination: {
+        _page: Number.parseInt(queryParam._page) || 1,
+        _limit: Number.parseInt(queryParam._limit) || 10,
+        _totalRows: Number.parseInt(totalCountHeader),
+      },
+    };
+    return res.jsonp(result);
+  }
+  res.jsonp(res.locals.data);
+};
+
 // Start server
 
 server.use("/api/product", routerAllProduct);
 server.use("/api/user", routerUsers);
 server.use("/api/bill", routerBills);
+server.use("/api/trash", routerTrash);
+server.use("/api/sales", routerSale);
 
 const PORT = process.env.PORT || 4000;
 server.listen(PORT, () => {
