@@ -1,4 +1,4 @@
-# Test : npm run dev
+# Test
 
 > http://localhost:4000
 
