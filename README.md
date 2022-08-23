@@ -14,32 +14,32 @@
 
 > https://pvfood-api.herokuapp.com/api/product/products
 
-**get products's items purchased with**
+- **get products's items purchased with**
 
 > https://pvfood-api.herokuapp.com/api/product/products/${productId}/purchasedWith
 
-**get products's image tag**
+- **get products's image tag**
 
 > https://pvfood-api.herokuapp.com/api/product/products/${productId}/imageTags
 
-**get products's review**
+- **get products's review**
 
 > https://pvfood-api.herokuapp.com/api/product/products/${productId}/reviews
 
 ---
 
-# users api
+# Users api
 
 > https://pvfood-api.herokuapp.com/api/user/users
 
 ---
 
-# trash api
+# Trash api
 
 > https://pvfood-api.herokuapp.com/api/trash/trash
 
 ---
 
-# sales api
+# Sales api
 
 > https://pvfood-api.herokuapp.com/api/sales/sales
