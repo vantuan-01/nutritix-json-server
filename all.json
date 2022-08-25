@@ -3912,7 +3912,19 @@
       "review": [
         {
           "commentId": 1,
-          "comment": "Bánh ngon quá, không cưỡng lại đc, lần sau sẽ quay lại ủng hộ"
+          "time": "13 September",
+          "experience": "Awesome",
+          "status": "Verified order",
+          "name": "Luke",
+          "comment": "Amazed, it was the first time i bought cannabis pre-rolled, very satisfied"
+        },
+        {
+          "commentId": 2,
+          "time": "13 September",
+          "experience": "Awesome",
+          "status": "Verified order",
+          "name": "Luke",
+          "comment": "Amazed, it was the first time i bought cannabis pre-rolled, very satisfied"
         }
       ]
     }
