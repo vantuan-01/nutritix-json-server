@@ -1,9 +1,9 @@
-@baseUrl = http://localhost:4000/snacks
+@baseUrl = http://localhost:4000
 @resourceName = posts
 
 # @name getAllCategory
 # GET {{baseUrl}}/{{resourceName}}
-GET {{baseUrl}}/products?_page=1&_limit=5
+GET {{baseUrl}}/api/product/products/1/reviews
 
 ###
 

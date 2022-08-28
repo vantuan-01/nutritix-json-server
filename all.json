@@ -3909,26 +3909,26 @@
   "reviews": [
     {
       "productId": 1,
-      "review": [
-        {
-          "commentId": 1,
-          "time": "13 September",
-          "experience": "Awesome",
-          "status": "Verified order",
-          "name": "Luke",
-          "comment": "Amazed, it was the first time i bought cannabis pre-rolled, very satisfied"
-        },
-        {
-          "commentId": 2,
-          "time": "13 September",
-          "experience": "Awesome",
-          "status": "Verified order",
-          "name": "Luke",
-          "comment": "Amazed, it was the first time i bought cannabis pre-rolled, very satisfied"
-        }
-      ]
+      "id": 1,
+      "time": "13 September",
+      "experience": "Awesome",
+      "status": "Verified order",
+      "name": "Luke",
+      "rate": 5,
+      "comment": "Amazed, it was the first time i bought cannabis pre-rolled, very satisfied"
+    },
+    {
+      "productId": 1,
+      "id": 2,
+      "time": "13 September",
+      "experience": "Awesome",
+      "status": "Verified order",
+      "name": "Luke",
+      "rate": 5,
+      "comment": "Amazed, it was the first time i bought cannabis pre-rolled, very satisfied"
     }
   ],
+
   "productTags": [
     {
       "productId": 1,
