@@ -2,6 +2,7 @@
   "bills": [
     {
       "id": 1,
+      "status": "Received",
       "info": {
         "shoppingInfo": {
           "items": [],
@@ -12,16 +13,17 @@
           "subtotalPrice": "...",
           "total/finalPrice": "..."
         },
-
         "userInfo": {
           "address": "...",
           "deliveryName": " Self pick up || Delivery",
           "fullName": "",
           "note": "...",
           "paymentMethods": " Bank || COD || Momo",
-          "phone": "..."
+          "phone": "...",
+          "image": null
         }
-      }
+      },
+      "updatedAt": 1662522830054
     }
   ]
 }
