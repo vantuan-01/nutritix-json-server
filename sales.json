@@ -1,7 +1,21 @@
 {
   "sales": [
     {
-      "id": 1
+      "id": 1,
+      "revenue": 108,
+      "month": 1
+    },
+
+    {
+      "id": 2,
+      "revenue": 18,
+      "month": 2
+    },
+
+    {
+      "id": 3,
+      "revenue": 40,
+      "month": 3
     }
   ]
 }

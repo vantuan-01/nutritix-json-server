@@ -7,7 +7,7 @@ PATCH {{baseUrl}}/api/bill/bills/1
 Content-Type: application/json
 
 {
-  "status" : "Delivering"
+  "status" : "Received"
 }
 
 ###
