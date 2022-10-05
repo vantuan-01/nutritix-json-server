@@ -1,7 +1,7 @@
 const jsonServer = require("json-server");
 const server = jsonServer.create();
 
-const routerAllProduct = jsonServer.router("all.json");
+const routerDb = jsonServer.router("db.json");
 const routerUsers = jsonServer.router("users.json");
 const routerBills = jsonServer.router("bill.json");
 const routerTrash = jsonServer.router("trash.json");
@@ -149,7 +149,7 @@ routerSale.render = (req, res) => {
 
 // Start server
 
-server.use("/api/product", routerAllProduct);
+server.use("/api/product", routerDb);
 server.use("/api/user", routerUsers);
 server.use("/api/bill", routerBills);
 server.use("/api/trash", routerTrash);
